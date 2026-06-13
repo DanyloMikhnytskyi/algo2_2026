@@ -1,0 +1,13 @@
+# Build artifacts and object files
+build/
+shortest_path
+
+# Benchmark output files
+results/
+
+# LaTeX reports, figures, and presentation documents (not needed to build/run the project)
+raport.tex
+sprawozdanie/
+
+# OS-specific files
+.DS_Store
